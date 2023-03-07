@@ -1,2 +1,2 @@
 # Atorus
-Proof of my coding requirements for Atorus 
+Proof of my coding ability for Atorus 
